@@ -1,0 +1,23 @@
+{
+  "name": "node-rtsp-image-to-video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Note: tests will be created later!\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT License",
+  "description": "The Node.js app gets screenshot captures from an RTSP security camera from streaming port and covert them into video by using fluent-ffmpeg.",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihitu/node-rtsp-image-to-video.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/fatihitu/node-rtsp-image-to-video/issues"
+  },
+  "homepage": "https://github.com/fatihitu/node-rtsp-image-to-video.git#readme"
+}
